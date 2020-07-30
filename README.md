@@ -1,3 +1,3 @@
-# elixir_exercism_io
+# exercism
 
-Step by step solve the problems of Elixir in ExercismIO
+Step by step solve the problems in ExercismIO
